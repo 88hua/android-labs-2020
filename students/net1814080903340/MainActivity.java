@@ -10,9 +10,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.activity_main);
-        setContentView(new Sudo_easy(this));
-        setContentView(new Sudo_middle(this));
-        setContentView(new Sudo_high(this));
+        setContentView(new EasySudu(this));
+        setContentView(new MiddleSudu(this));
+        setContentView(new HighSudu(this));
 
     }
 }

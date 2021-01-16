@@ -9,6 +9,6 @@ public class HighActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(new Sudo_high(this));
+        setContentView(new HighSudu(this));
     }
 }

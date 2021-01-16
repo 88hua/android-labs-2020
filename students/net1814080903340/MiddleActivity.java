@@ -9,6 +9,6 @@ public class MiddleActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(new Sudo_middle(this));
+        setContentView(new MiddleSudu(this));
     }
 }

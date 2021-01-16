@@ -10,7 +10,7 @@ public class EasyActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(new Sudo_easy(this));
+        setContentView(new EasySudu(this));
     }
 
 }
